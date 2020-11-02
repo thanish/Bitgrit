@@ -17,3 +17,7 @@ To build the model there were 2 different types of data subsets provided: user d
 I. User data: These files are connected through the user_id column
 II. Interaction data: These files are indexed by from-to user_id pairs (e.g. 12345-52462)
 III. Train and test files: In order to train the model, we provide a train.csv file with pairs of user IDs and their corresponding scores
+
+I(Bellagio) was placed at 12 place in the private leader board.
+
+![alt text](https://github.com/thanish/Bitgrit/blob/main/Swipetosuccess/image.png)
